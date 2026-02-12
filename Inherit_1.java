@@ -1,11 +1,11 @@
-class Vehicle {
+class Car {
     protected String brand = "Ford";        
     public void honk() {                    
         System.out.println("Tuut, tuut!");
     }
 }
 
-class Inherit_1 extends Vehicle {
+class Inherit_1 extends Car {
     private String modelName = "Mustang";    
     public static void main(String[] args) {
 
