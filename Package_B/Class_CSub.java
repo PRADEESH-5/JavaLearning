@@ -1,5 +1,4 @@
 package Package_B;
-import Package_A.*;
 
 public class Class_CSub extends Class_C {
     public static void main(String []args){
