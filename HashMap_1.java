@@ -11,7 +11,7 @@ public class HashMap_1 {
         System.out.println(h);
 
         System.out.println(h.get("England"));
-        h.remove("england");
+        h.remove("England");
         System.out.println(h);
 
         System.out.println(h.size());
@@ -28,3 +28,4 @@ public class HashMap_1 {
         System.out.println(h);
     }
 }
+
